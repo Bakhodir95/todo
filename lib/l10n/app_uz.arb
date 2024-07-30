@@ -1,0 +1,18 @@
+{
+    "helloWorld": "Salom Dunyo!",
+    "apple": "OLma",
+    "hello": "Salom  {username}",
+    "nApples": "{count, plural, =0{OLmalar yo'q} =1{Bitta olma} other{{count} OLmalar}}",
+    "course": "Kurslar",
+    "todos": "Rejalar",
+    "notes": "Eslatmalar",
+    "settings": "Sozlamalar",
+    "adminpanel": "Boshqaruv oynasi",
+    "homepage": "Bosh sahifa",
+    "statisticpage": "Hisobotlar sahifasi",
+    "profilepage": "Shaxsiy kabinet",
+    "darkmode": "Tungi rejm",
+    "name": "Ism",
+    "surname": "Familya",
+    "number": "Telefon raqami"
+}
